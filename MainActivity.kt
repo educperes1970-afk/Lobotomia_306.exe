@@ -40,7 +40,9 @@ class MainActivity : Activity() {
         "Monstro",
         "Outra pessoa",
         "Ninguém",
-        "PARE POR FAVOR"
+        "PARE POR FAVOR",
+        "S.O.S",
+        "me ajude"
     )
 
     // Elementos da Interface (UI)
