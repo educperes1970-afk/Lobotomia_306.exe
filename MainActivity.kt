@@ -20,7 +20,6 @@ import androidx.core.app.ActivityCompat
 import androidx.core.content.FileProvider
 import java.io.File
 import kotlin.random.Random
-import android.materialbutton
 
 class MainActivity : Activity() {
 
@@ -328,7 +327,7 @@ class MainActivity : Activity() {
     private fun checarFimDeJogo() {
         if (vidaJogador <= 0) {
             txtDialogo.visibility = View.VISIBLE
-            txtDialogo.text = "A lobotomia desfez você por completo. Fim de jogo."
+            txtDialogo.text = "A lobotomia desfez você por completo. Finalmente...."
         }
     }
 }
