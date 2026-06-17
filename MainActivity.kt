@@ -1,4 +1,4 @@
-package com.meujogo.terrorlobotomia
+package com.exe.lobotomia306
 
 import android.Manifest
 import android.app.Activity
